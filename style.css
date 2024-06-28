@@ -110,7 +110,7 @@ body {
     font-family: gilroy;
     font-weight: 600;
 }
-/* 
+
 .resume-btn-prt {
     right: 2vmax;
     top: 1vmax;
@@ -133,10 +133,10 @@ body {
 
 .resume-btn-prt a {
     font-size: 1.1vmax;
-    /* background-color: red; */
-    /* font-family: gilroy;
+    /* background-color: red;  */
+    font-family: gilroy;
     font-weight: 600;
-}  */
+} 
 
 #nav h5 {
     font-size: 1.3vw;
